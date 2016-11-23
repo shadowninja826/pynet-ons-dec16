@@ -1,3 +1,4 @@
 1#
 pynet-sw1#
-pynet-sw1#show run
+pynet-sw1#
+pynet-sw1#
