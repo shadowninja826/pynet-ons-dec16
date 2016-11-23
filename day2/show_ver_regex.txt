@@ -1,0 +1,6 @@
+
+RegEx Ex1
+----------
+
+Re-write Show Version Exercise2, but using regular expressions.
+
