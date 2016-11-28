@@ -48,7 +48,7 @@ raw_input("\n\nHit a key to continue: ")
 
 print "\nRestore Config"
 print '-' * 50
-nxs_test.config("hostname nxos-spine1")
+nxs_test.config("hostname nxos1")
 print nxs_test.show("show hostname")
 print '-' * 50
 raw_input("\n\nHit a key to continue: ")
